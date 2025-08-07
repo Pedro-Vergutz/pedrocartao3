@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Espaço',
+    'Qual é o maior planeta do Sistema Solar?',
+    'Júpiter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimento Geral',
+    'Quantos lados tem um triângulo?',
+    '3'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Animais',
+    'Qual é o animal mais rápido do mundo?',
+    'O guepardo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimento Geral',
+    'Que cor se forma ao misturar azul e amarelo?',
+    ' Verde'
 )
